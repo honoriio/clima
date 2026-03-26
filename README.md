@@ -1,3 +1,1 @@
-Ola, criei um programinha em python  que fornece data, hora e clima atual da cidade fornecida pelo usuario na entrada de dados. 
-
-foi um aplicacao bem simples, nao tenho um  mes ded aprendizado ainda, e achei que essa seria uma forma de exercitar o que eu estou apredendo. 
+Desenvolvi uma aplicação em Python que retorna data, hora e informações climáticas a partir da cidade informada pelo usuário. O projeto foi criado no início da minha jornada em programação, com o objetivo de praticar manipulação de dados, interação com o usuário e integração com fontes externas. Representa um dos meus primeiros projetos práticos.
